@@ -5,6 +5,10 @@ Mapeie padrões linguísticos, vícios de escrita e assinaturas de estilo em cor
 > **TL;DR**: Carregue um conjunto de e‑mails (Ex.: *Enron*), escolha uma pessoa e visualize nuvem de palavras, gráfico radar, frases favoritas, métricas de diversidade léxica e comparação entre autores. Ou cole qualquer texto longo e receba um relatório instantâneo.
 
 ---
+## EXemplo Visual:
+![Gravando 2025-07-07 214230](https://github.com/user-attachments/assets/ecbaa309-b6f5-4686-badc-71d1f54f2e00)
+---
+
 
 ## 🔥 Destaques
 
